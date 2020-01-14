@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio Code folder
+*\.vscode
+
+# Jupyter NoteBook Backup Files
+*\.ipynb_checkpoints
