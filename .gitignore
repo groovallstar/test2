@@ -31,6 +31,9 @@
 *.out
 *.app
 
+# csv file
+*.csv
+
 # Visual Studio Code folder
 *\.vscode
 
